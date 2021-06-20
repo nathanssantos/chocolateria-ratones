@@ -1,5 +1,4 @@
 import React from "react";
-import Slider from "react-slick";
 
 import Screen from "../../components/Screen/Screen";
 import Hero from "../../components/Hero/Hero";
@@ -89,18 +88,16 @@ const Products = () => {
     <Screen className="products">
       <Hero title="Produtos" small />
       <main>
-        <Slider arrows={false} dots infinite autoplay autoplaySpeed={6000}>
-          {productList.map(({ name, weight, price, images, description }) => (
-            <Product
-              key={name}
-              name={name}
-              weight={weight}
-              price={price}
-              description={description}
-              images={images}
-            />
-          ))}
-        </Slider>
+        {productList.map(({ name, weight, price, images, description }) => (
+          <Product
+            key={name}
+            name={name}
+            weight={weight}
+            price={price}
+            description={description}
+            images={images}
+          />
+        ))}
       </main>
     </Screen>
   );

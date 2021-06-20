@@ -8,7 +8,8 @@ const Logo = ({ big, vertical, white }) => {
       className="logo"
       style={{
         flexDirection: vertical ? "column" : "row",
-        opacity: white ? 0.8 : 1,
+        opacity: 1,
+        // opacity: white ? 0.8 : 1,
       }}
     >
       <svg version="1.0" width={big ? 200 : 50} viewBox="0 0 1280 743">
