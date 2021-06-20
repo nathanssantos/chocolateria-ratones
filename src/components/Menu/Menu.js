@@ -6,7 +6,7 @@ import "./styles.scss";
 
 const menuButtons = [
   {
-    route: "",
+    route: "/chocolateria-ratones",
     label: "home",
   },
   {
