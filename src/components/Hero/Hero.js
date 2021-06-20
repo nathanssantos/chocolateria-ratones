@@ -1,6 +1,6 @@
 import React from "react";
 import Slider from "react-slick";
-import { Container } from "@material-ui/core";
+import { Container, Button } from "@material-ui/core";
 
 import Logo from "../Logo/Logo";
 
@@ -13,7 +13,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import "./styles.scss";
 
-const Hero = ({ title, logo, small }) => {
+const Hero = ({ center, title, logo, buttonText, buttonAction, small }) => {
   return (
     <div className={`hero ${small ? "small" : ""}`}>
       <Slider infinite arrows={false} autoplay autoplaySpeed={6000}>
@@ -36,9 +36,20 @@ const Hero = ({ title, logo, small }) => {
         </div>
       ) : null}
 
-      {logo ? (
-        <div className="hero__logo">
-          <Logo big vertical white />
+      {center ? (
+        <div className="hero__center">
+          {logo ? <Logo big vertical white /> : null}
+          {buttonText ? (
+            <div className="hero__button">
+              <Button
+                variant="outlined"
+                className="bt-cta"
+                onClick={buttonAction}
+              >
+                {buttonText}
+              </Button>
+            </div>
+          ) : null}
         </div>
       ) : null}
     </div>

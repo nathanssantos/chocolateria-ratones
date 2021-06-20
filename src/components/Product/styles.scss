@@ -34,7 +34,7 @@
   }
 
   &__description {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 
     .flavour-list {
       &__title {
@@ -52,27 +52,60 @@
     margin-left: -16px;
     margin-right: -16px;
 
-    .slick-slide {
-      padding: 0 16px;
+    .slick-track {
+      margin-left: 0;
     }
 
-    @media screen and (min-width: 600px) {
-      margin-left: -24px;
-      margin-right: -24px;
-
-      .slick-slide {
-        padding: 0 24px;
-      }
+    .slick-slide {
+      padding: 0 16px;
     }
   }
 
   &__image {
     overflow: hidden;
+    position: relative;
+    border-radius: 4px;
 
     img {
       height: 320px;
       object-position: bottom;
       object-fit: cover;
+    }
+
+    .bt-expand-image {
+      position: absolute;
+      right: 10px;
+      bottom: 10px;
+      color: #fff;
+      border-color: #fff;
+      min-width: unset;
+      padding: 5px;
+      transition: all 200ms ease-in-out;
+
+      @media screen and(min-width: 720px) {
+        opacity: 0;
+      }
+    }
+
+    @media screen and(min-width: 720px) {
+      &:hover {
+        .bt-expand-image {
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+  &__modal {
+    &__image {
+      display: flex;
+
+      img {
+        object-fit: contain;
+        max-height: 80vh;
+        max-width: 80vw;
+        width: unset;
+      }
     }
   }
 }

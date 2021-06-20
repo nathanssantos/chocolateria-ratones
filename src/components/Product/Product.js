@@ -1,18 +1,26 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
-import { Container } from "@material-ui/core";
 import Slider from "react-slick";
+import { Container } from "@material-ui/core";
+import { OpenWith } from "@material-ui/icons";
 
 import "./styles.scss";
+import Modal from "../Modal/Modal";
 
 const sliderSettings = {
   arrows: false,
   dots: true,
   infinite: false,
-  slidesToShow: 3,
+  slidesToShow: 4,
   slidesToScroll: 1,
   mobileFirst: true,
   responsive: [
+    {
+      breakpoint: 1280,
+      settings: {
+        slidesToShow: 3,
+      },
+    },
     {
       breakpoint: 1024,
       settings: {
@@ -55,6 +63,15 @@ const Product = ({
               {images.map((image) => (
                 <div className="product__image">
                   <img src={image} />
+                  <Modal
+                    buttonVariant="outlined"
+                    buttonContent={<OpenWith />}
+                    buttonClassName="bt-expand-image"
+                  >
+                    <div className="product__modal__image">
+                      <img src={image} />
+                    </div>
+                  </Modal>
                 </div>
               ))}
             </Slider>

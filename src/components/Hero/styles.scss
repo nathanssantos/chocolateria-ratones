@@ -10,7 +10,7 @@
     img {
       object-fit: cover;
       height: 100vh;
-      filter: opacity(85%);
+      filter: brightness(70%);
     }
   }
 
@@ -18,7 +18,6 @@
     position: absolute;
     left: 0;
     right: 0;
-    // background-color: red;
     top: 0;
     bottom: 0;
     display: flex;
@@ -31,11 +30,27 @@
     }
   }
 
-  &__logo {
+  &__center {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, calc(-50%));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__button {
+    z-index: 1;
+    margin-top: 30px;
+
+    .bt-cta {
+      color: #fff;
+      border-color: #fff;
+      font-weight: 700;
+      text-transform: unset;
+      font-size: 16px;
+    }
   }
 
   &.small {
