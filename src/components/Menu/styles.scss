@@ -1,0 +1,17 @@
+.menu {
+  &__list {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    &__item {
+    }
+  }
+
+  &.vertical {
+    .menu__list {
+      flex-direction: column;
+    }
+  }
+}

@@ -1,0 +1,50 @@
+@import "../../scss/constants.scss";
+
+.hero {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+
+  &__slide {
+    img {
+      object-fit: cover;
+      height: 100vh;
+      filter: opacity(85%);
+    }
+  }
+
+  &__title {
+    position: absolute;
+    left: 0;
+    right: 0;
+    // background-color: red;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    margin-top: 68px;
+    text-align: center;
+
+    @media screen and (min-width: 720px) {
+      text-align: left;
+    }
+  }
+
+  &__logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, calc(-50%));
+  }
+
+  &.small {
+    height: 400px;
+
+    .hero__slide {
+      img {
+        height: 400px;
+      }
+    }
+  }
+}

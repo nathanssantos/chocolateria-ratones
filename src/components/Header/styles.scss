@@ -1,0 +1,38 @@
+@import "../../scss/constants.scss";
+
+.header {
+  background-color: rgba(255, 255, 255, 0.8);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 16px 0;
+  z-index: 1;
+
+  &__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  // &__logo {
+  //   @media screen and(min-width: 768px) {
+  //     margin-bottom: 0;
+  //   }
+  // }
+
+  &__drawer {
+    display: unset;
+
+    @media screen and(min-width: 768px) {
+      display: none;
+    }
+  }
+
+  &__menu {
+    display: none;
+
+    @media screen and(min-width: 768px) {
+      display: unset;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+@import "../../scss/constants.scss";
+
+.contact {
+  &__list {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 0;
+    gap: 10px;
+
+    &__item {
+    }
+  }
+
+  &__button {
+    // display: flex !important;
+    // align-items: center !important;
+    text-transform: unset !important;
+    // font-weight: 700 !important;
+  }
+}

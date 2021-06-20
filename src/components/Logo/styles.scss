@@ -1,0 +1,14 @@
+@import "../../scss/constants.scss";
+
+.logo {
+  display: flex;
+  align-items: center;
+  user-select: none;
+
+  &__title {
+    margin: 0;
+    color: $primary;
+    font-family: "Poiret";
+    text-align: center;
+  }
+}
