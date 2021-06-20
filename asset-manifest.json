@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocolateria-ratones/static/css/main.05caa1a6.chunk.css",
-    "main.js": "/chocolateria-ratones/static/js/main.673f0a3d.chunk.js",
-    "main.js.map": "/chocolateria-ratones/static/js/main.673f0a3d.chunk.js.map",
+    "main.js": "/chocolateria-ratones/static/js/main.41c92811.chunk.js",
+    "main.js.map": "/chocolateria-ratones/static/js/main.41c92811.chunk.js.map",
     "runtime-main.js": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js",
     "runtime-main.js.map": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js.map",
     "static/css/2.1c2b16fa.chunk.css": "/chocolateria-ratones/static/css/2.1c2b16fa.chunk.css",
@@ -35,6 +35,6 @@
     "static/css/2.1c2b16fa.chunk.css",
     "static/js/2.e918c093.chunk.js",
     "static/css/main.05caa1a6.chunk.css",
-    "static/js/main.673f0a3d.chunk.js"
+    "static/js/main.41c92811.chunk.js"
   ]
 }
