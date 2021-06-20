@@ -11,8 +11,7 @@ import barra4 from "../../assets/images/products/barra/barra-4.jpeg";
 
 import bombom1 from "../../assets/images/products/bombom/bombom-1.jpeg";
 import bombom2 from "../../assets/images/products/bombom/bombom-2.jpeg";
-import bombom3 from "../../assets/images/products/bombom/bombom-3.jpeg";
-import bombom4 from "../../assets/images/products/bombom/bombom-4.jpg";
+import bombom3 from "../../assets/images/products/bombom/bombom-3.jpg";
 
 import coracao1 from "../../assets/images/products/coracao/coracao-1.jpg";
 import coracao2 from "../../assets/images/products/coracao/coracao-2.jpg";
@@ -45,7 +44,7 @@ const productList = [
         </ul>
       </div>
     ),
-    images: [bombom1, bombom2, bombom3, bombom4],
+    images: [bombom1, bombom2, bombom3],
   },
   {
     name: "Barra de Chocolate Gourmet",
