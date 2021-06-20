@@ -10,12 +10,12 @@ const menuButtons = [
     label: "home",
   },
   {
-    route: "produtos",
+    route: "/chocolateria-ratones/produtos",
     label: "Produtos",
   },
 
   {
-    route: "contato",
+    route: "/chocolateria-ratones/contato",
     label: "Contato",
   },
 ];
