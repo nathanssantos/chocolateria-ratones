@@ -24,7 +24,7 @@ const Menu = ({ vertical, drawer }) => {
   const history = useHistory();
 
   const handleClick = (route) => {
-    history.replace(route);
+    history.push(route);
     if (drawer) drawer.close();
   };
 
