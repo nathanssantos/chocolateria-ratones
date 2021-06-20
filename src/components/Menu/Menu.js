@@ -6,16 +6,16 @@ import "./styles.scss";
 
 const menuButtons = [
   {
-    route: "/chocolateria-ratones",
+    route: "/",
     label: "home",
   },
   {
-    route: "/chocolateria-ratones/produtos",
+    route: "/produtos",
     label: "Produtos",
   },
 
   {
-    route: "/chocolateria-ratones/contato",
+    route: "/contato",
     label: "Contato",
   },
 ];

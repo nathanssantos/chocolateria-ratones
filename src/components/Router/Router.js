@@ -11,10 +11,10 @@ const Router = () => (
   <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Header />
     <Switch>
-      <Route path="/chocolateria-ratones/produtos">
+      <Route path="/produtos">
         <Products />
       </Route>
-      <Route path="/chocolateria-ratones/contato">
+      <Route path="/contato">
         <Contact />
       </Route>
       <Route path="/">
