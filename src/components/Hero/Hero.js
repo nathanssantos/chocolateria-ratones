@@ -19,12 +19,22 @@ const Hero = ({
   logo,
   buttonText,
   buttonAction,
-  fade,
+  fade = false,
+  arrows = false,
+  autoplay = true,
+  autoplaySpeed = 6000,
+  infinite = true,
   small,
 }) => {
   return (
     <div className={`hero ${small ? "small" : ""}`}>
-      <Slider infinite arrows={false} fade={fade} autoplay autoplaySpeed={6000}>
+      <Slider
+        infinite={infinite}
+        arrows={arrows}
+        fade={fade}
+        autoplay={autoplay}
+        autoplaySpeed={autoplaySpeed}
+      >
         <div className="hero__slide">
           <img src={hero1} alt="Chocolateria Ratones" />
         </div>

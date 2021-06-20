@@ -11,7 +11,7 @@ import "./styles.scss";
 const Contact = () => {
   return (
     <Screen className="contact">
-      <Hero title="Contato" small />
+      <Hero title="Contato" fade small />
       <Container size="md">
         <main>
           <ul className="contact__list">
