@@ -5,10 +5,10 @@ import { useHistory } from "react-router-dom";
 import "./styles.scss";
 
 const menuButtons = [
-  {
-    route: "/",
-    label: "home",
-  },
+  // {
+  //   route: "/",
+  //   label: "home",
+  // },
   {
     route: "/produtos",
     label: "Produtos",
