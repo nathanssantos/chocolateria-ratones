@@ -13,7 +13,6 @@ const sliderSettings = {
   infinite: false,
   slidesToShow: 4,
   slidesToScroll: 1,
-  fade: true,
   responsive: [
     {
       breakpoint: 1280,

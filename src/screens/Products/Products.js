@@ -11,7 +11,7 @@ import "./styles.scss";
 const Products = () => {
   return (
     <Screen className="products">
-      <Hero title="Produtos" small />
+      <Hero title="Produtos" fade small />
       <main>
         {productList.map(({ name, weight, price, images, description }) => (
           <Product
