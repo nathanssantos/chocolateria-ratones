@@ -8,7 +8,7 @@ import Products from "../../screens/Products/Products";
 import Contact from "../../screens/Contact/Contact";
 
 const Router = () => (
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Header />
     <Switch>
       <Route path="/produtos">

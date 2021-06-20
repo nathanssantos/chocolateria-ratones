@@ -2,7 +2,7 @@
   "name": "chocolateria-ratones",
   "version": "1.0.0",
   "author": "Nathan Silva Santos",
-  "homepage": "http://nathanssantos.github.io/chocolateira-ratones",
+  "homepage": "https://nathanssantos.github.io/chocolateria-ratones/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
