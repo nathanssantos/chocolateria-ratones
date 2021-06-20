@@ -1,6 +1,13 @@
 @import "../../scss/constants.scss";
 
 .contact {
+  &__title {
+    margin-top: 30px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    font-size: 20px;
+  }
+
   &__list {
     display: flex;
     flex-direction: column;
@@ -12,9 +19,6 @@
   }
 
   &__button {
-    // display: flex !important;
-    // align-items: center !important;
     text-transform: unset !important;
-    // font-weight: 700 !important;
   }
 }

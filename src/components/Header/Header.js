@@ -1,5 +1,5 @@
 import React from "react";
-import { Container } from "@material-ui/core";
+import { Container, Button } from "@material-ui/core";
 import { useHistory } from "react-router-dom";
 
 import Logo from "../Logo/Logo";
@@ -15,9 +15,9 @@ const Header = () => {
     <header className="header">
       <Container size="md">
         <div className="header__content">
-          <button onClick={() => history.push("/")} className="header__logo">
+          <Button onClick={() => history.push("/")} className="header__logo">
             <Logo />
-          </button>
+          </Button>
           <div className="header__menu">
             <Menu />
           </div>
