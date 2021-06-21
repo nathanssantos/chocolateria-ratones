@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 
 import Header from "../Header/Header";
 
@@ -8,7 +8,7 @@ import Products from "../../screens/Products/Products";
 import Contact from "../../screens/Contact/Contact";
 
 const Router = () => (
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <HashRouter>
     <Header />
     <Switch>
       <Route path="/produtos">
@@ -21,7 +21,7 @@ const Router = () => (
         <Home />
       </Route>
     </Switch>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 export default Router;
