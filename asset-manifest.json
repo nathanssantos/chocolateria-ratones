@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/chocolateria-ratones/static/css/main.0f8214fd.chunk.css",
-    "main.js": "/chocolateria-ratones/static/js/main.39424557.chunk.js",
-    "main.js.map": "/chocolateria-ratones/static/js/main.39424557.chunk.js.map",
+    "main.js": "/chocolateria-ratones/static/js/main.07929685.chunk.js",
+    "main.js.map": "/chocolateria-ratones/static/js/main.07929685.chunk.js.map",
     "runtime-main.js": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js",
     "runtime-main.js.map": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js.map",
-    "static/css/2.1c2b16fa.chunk.css": "/chocolateria-ratones/static/css/2.1c2b16fa.chunk.css",
-    "static/js/2.cac1343b.chunk.js": "/chocolateria-ratones/static/js/2.cac1343b.chunk.js",
-    "static/js/2.cac1343b.chunk.js.map": "/chocolateria-ratones/static/js/2.cac1343b.chunk.js.map",
+    "static/css/2.f873f00b.chunk.css": "/chocolateria-ratones/static/css/2.f873f00b.chunk.css",
+    "static/js/2.f46ba46e.chunk.js": "/chocolateria-ratones/static/js/2.f46ba46e.chunk.js",
+    "static/js/2.f46ba46e.chunk.js.map": "/chocolateria-ratones/static/js/2.f46ba46e.chunk.js.map",
     "index.html": "/chocolateria-ratones/index.html",
-    "static/css/2.1c2b16fa.chunk.css.map": "/chocolateria-ratones/static/css/2.1c2b16fa.chunk.css.map",
+    "static/css/2.f873f00b.chunk.css.map": "/chocolateria-ratones/static/css/2.f873f00b.chunk.css.map",
     "static/css/main.0f8214fd.chunk.css.map": "/chocolateria-ratones/static/css/main.0f8214fd.chunk.css.map",
-    "static/js/2.cac1343b.chunk.js.LICENSE.txt": "/chocolateria-ratones/static/js/2.cac1343b.chunk.js.LICENSE.txt",
+    "static/js/2.f46ba46e.chunk.js.LICENSE.txt": "/chocolateria-ratones/static/js/2.f46ba46e.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/chocolateria-ratones/static/media/Raleway-Thin.537e4a26.ttf",
     "static/media/barra-1.2db7e649.jpeg": "/chocolateria-ratones/static/media/barra-1.2db7e649.jpeg",
     "static/media/barra-2.cf444c79.jpeg": "/chocolateria-ratones/static/media/barra-2.cf444c79.jpeg",
@@ -27,14 +27,13 @@
     "static/media/hero-3.88e41442.jpg": "/chocolateria-ratones/static/media/hero-3.88e41442.jpg",
     "static/media/palha-1.96e64380.jpg": "/chocolateria-ratones/static/media/palha-1.96e64380.jpg",
     "static/media/palha-2.aa56bdd1.jpg": "/chocolateria-ratones/static/media/palha-2.aa56bdd1.jpg",
-    "static/media/index.css": "/chocolateria-ratones/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
     "static/media/slick-theme.css": "/chocolateria-ratones/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.db6009d3.js",
-    "static/css/2.1c2b16fa.chunk.css",
-    "static/js/2.cac1343b.chunk.js",
+    "static/css/2.f873f00b.chunk.css",
+    "static/js/2.f46ba46e.chunk.js",
     "static/css/main.0f8214fd.chunk.css",
-    "static/js/main.39424557.chunk.js"
+    "static/js/main.07929685.chunk.js"
   ]
 }
