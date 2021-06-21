@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/chocolateria-ratones/static/css/main.0f8214fd.chunk.css",
-    "main.js": "/chocolateria-ratones/static/js/main.3003cf65.chunk.js",
-    "main.js.map": "/chocolateria-ratones/static/js/main.3003cf65.chunk.js.map",
+    "main.js": "/chocolateria-ratones/static/js/main.39424557.chunk.js",
+    "main.js.map": "/chocolateria-ratones/static/js/main.39424557.chunk.js.map",
     "runtime-main.js": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js",
     "runtime-main.js.map": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js.map",
     "static/css/2.1c2b16fa.chunk.css": "/chocolateria-ratones/static/css/2.1c2b16fa.chunk.css",
-    "static/js/2.e918c093.chunk.js": "/chocolateria-ratones/static/js/2.e918c093.chunk.js",
-    "static/js/2.e918c093.chunk.js.map": "/chocolateria-ratones/static/js/2.e918c093.chunk.js.map",
+    "static/js/2.cac1343b.chunk.js": "/chocolateria-ratones/static/js/2.cac1343b.chunk.js",
+    "static/js/2.cac1343b.chunk.js.map": "/chocolateria-ratones/static/js/2.cac1343b.chunk.js.map",
     "index.html": "/chocolateria-ratones/index.html",
     "static/css/2.1c2b16fa.chunk.css.map": "/chocolateria-ratones/static/css/2.1c2b16fa.chunk.css.map",
     "static/css/main.0f8214fd.chunk.css.map": "/chocolateria-ratones/static/css/main.0f8214fd.chunk.css.map",
-    "static/js/2.e918c093.chunk.js.LICENSE.txt": "/chocolateria-ratones/static/js/2.e918c093.chunk.js.LICENSE.txt",
+    "static/js/2.cac1343b.chunk.js.LICENSE.txt": "/chocolateria-ratones/static/js/2.cac1343b.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/chocolateria-ratones/static/media/Raleway-Thin.537e4a26.ttf",
     "static/media/barra-1.2db7e649.jpeg": "/chocolateria-ratones/static/media/barra-1.2db7e649.jpeg",
     "static/media/barra-2.cf444c79.jpeg": "/chocolateria-ratones/static/media/barra-2.cf444c79.jpeg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.db6009d3.js",
     "static/css/2.1c2b16fa.chunk.css",
-    "static/js/2.e918c093.chunk.js",
+    "static/js/2.cac1343b.chunk.js",
     "static/css/main.0f8214fd.chunk.css",
-    "static/js/main.3003cf65.chunk.js"
+    "static/js/main.39424557.chunk.js"
   ]
 }
