@@ -65,8 +65,8 @@ const productList = [
         <div className="flavour-list__title">Sabores disponíveis:</div>
 
         <ul>
-          <li>Cookies</li>
-          <li>Chocolate Blend</li>
+          <li>Cookies e Chocolate Blend</li>
+          <li>Brownie e Chocolate Blend</li>
         </ul>
       </div>
     ),
