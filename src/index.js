@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "fontsource-roboto";
 import "./scss/index.scss";
 
 import App from "./App";
