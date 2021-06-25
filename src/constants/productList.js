@@ -70,7 +70,7 @@ const productList = [
         </ul>
       </div>
     ),
-    images: [coracao1, coracao2],
+    images: [coracao2, coracao1],
   },
 ];
 
