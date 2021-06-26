@@ -1,6 +1,6 @@
 import barra1 from "../assets/images/products/barra/barra-1.jpeg";
 import barra2 from "../assets/images/products/barra/barra-2.jpeg";
-import barra3 from "../assets/images/products/barra/barra-3.jpg";
+import barra3 from "../assets/images/products/barra/barra-3.jpeg";
 import barra4 from "../assets/images/products/barra/barra-4.jpeg";
 
 import bombom1 from "../assets/images/products/bombom/bombom-1.jpeg";
