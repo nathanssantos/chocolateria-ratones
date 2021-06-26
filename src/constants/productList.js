@@ -1,19 +1,19 @@
-import barra1 from "../assets/images/products/barra/barra-1.jpeg";
-import barra2 from "../assets/images/products/barra/barra-2.jpeg";
-import barra3 from "../assets/images/products/barra/barra-3.jpeg";
-import barra4 from "../assets/images/products/barra/barra-4.jpeg";
+import palha1 from "../assets/images/products/palha/palha-1.jpg";
+import palha2 from "../assets/images/products/palha/palha-2.jpg";
+import palha3 from "../assets/images/products/palha/palha-3.jpg";
+import palha4 from "../assets/images/products/palha/palha-4.jpg";
 
 import bombom1 from "../assets/images/products/bombom/bombom-1.jpeg";
 import bombom2 from "../assets/images/products/bombom/bombom-2.jpeg";
 import bombom3 from "../assets/images/products/bombom/bombom-3.jpg";
 
+import barra1 from "../assets/images/products/barra/barra-1.jpeg";
+import barra2 from "../assets/images/products/barra/barra-2.jpeg";
+import barra3 from "../assets/images/products/barra/barra-3.jpeg";
+import barra4 from "../assets/images/products/barra/barra-4.jpeg";
+
 import coracao1 from "../assets/images/products/coracao/coracao-1.jpg";
 import coracao2 from "../assets/images/products/coracao/coracao-2.jpg";
-
-import palha1 from "../assets/images/products/palha/palha-1.jpg";
-import palha2 from "../assets/images/products/palha/palha-2.jpg";
-import palha3 from "../assets/images/products/palha/palha-3.jpg";
-import palha4 from "../assets/images/products/palha/palha-4.jpg";
 
 const productList = [
   {
