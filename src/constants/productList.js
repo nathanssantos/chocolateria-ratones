@@ -12,6 +12,8 @@ import coracao2 from "../assets/images/products/coracao/coracao-2.jpg";
 
 import palha1 from "../assets/images/products/palha/palha-1.jpg";
 import palha2 from "../assets/images/products/palha/palha-2.jpg";
+import palha3 from "../assets/images/products/palha/palha-3.jpg";
+import palha4 from "../assets/images/products/palha/palha-4.jpg";
 
 const productList = [
   {
@@ -19,7 +21,7 @@ const productList = [
     price: 10,
     description: () =>
       "Palha Italiana de brigadeiro e biscoito Oreo coberta com chocolate nobre blend.",
-    images: [palha1, palha2],
+    images: [palha1, palha2, palha3, palha4],
   },
   {
     name: "Bombom",
