@@ -9,7 +9,6 @@ import bombom3 from "../assets/images/products/bombom/bombom-3.jpg";
 
 import bombom4 from "../assets/images/products/bombom/bombom-4.jpg";
 import bombom5 from "../assets/images/products/bombom/bombom-5.jpg";
-import bombom6 from "../assets/images/products/bombom/bombom-6.jpg";
 
 import barra1 from "../assets/images/products/barra/barra-1.jpeg";
 import barra2 from "../assets/images/products/barra/barra-2.jpeg";
@@ -29,7 +28,7 @@ const productList = [
   },
   {
     name: "Bombom grande",
-    price: 12,
+    price: 10,
     description: () => (
       <div className="flavour-list">
         <div className="flavour-list__title">Sabores disponíveis:</div>
@@ -45,20 +44,18 @@ const productList = [
     images: [bombom1, bombom2, bombom3],
   },
   {
-    name: "Bombom médio 2un",
-    weight: 160,
-    price: 15,
+    name: "Bombom médio",
+    price: 8,
     description: () => (
       <div className="flavour-list">
         <div className="flavour-list__title">Sabores disponíveis:</div>
 
         <ul>
-          <li>Brigadeiro</li>
-          <li>Cookies</li>
+          <li>Brigadeiro com cookies</li>
         </ul>
       </div>
     ),
-    images: [bombom4, bombom5, bombom6],
+    images: [bombom4, bombom5],
   },
   {
     name: "Barra de Chocolate Gourmet",
