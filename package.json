@@ -1,7 +1,10 @@
 {
   "name": "chocolateria-ratones",
   "version": "1.0.0",
-  "author": "Nathan Silva Santos",
+  "author": {
+    "name": "Nathan Silva Santos",
+    "email": "nathansilvasantos@gmail.com"
+  },
   "homepage": "https://nathanssantos.github.io/chocolateria-ratones/",
   "private": true,
   "dependencies": {
