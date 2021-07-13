@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocolateria-ratones/static/css/main.0f8214fd.chunk.css",
-    "main.js": "/chocolateria-ratones/static/js/main.6490d40d.chunk.js",
-    "main.js.map": "/chocolateria-ratones/static/js/main.6490d40d.chunk.js.map",
+    "main.js": "/chocolateria-ratones/static/js/main.bdd9f80b.chunk.js",
+    "main.js.map": "/chocolateria-ratones/static/js/main.bdd9f80b.chunk.js.map",
     "runtime-main.js": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js",
     "runtime-main.js.map": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js.map",
     "static/css/2.f873f00b.chunk.css": "/chocolateria-ratones/static/css/2.f873f00b.chunk.css",
@@ -20,6 +20,8 @@
     "static/media/bombom-1.7e2b2a05.jpeg": "/chocolateria-ratones/static/media/bombom-1.7e2b2a05.jpeg",
     "static/media/bombom-2.53a84090.jpeg": "/chocolateria-ratones/static/media/bombom-2.53a84090.jpeg",
     "static/media/bombom-3.9132c789.jpg": "/chocolateria-ratones/static/media/bombom-3.9132c789.jpg",
+    "static/media/bombom-4.25519c39.jpg": "/chocolateria-ratones/static/media/bombom-4.25519c39.jpg",
+    "static/media/bombom-5.02f087d7.jpg": "/chocolateria-ratones/static/media/bombom-5.02f087d7.jpg",
     "static/media/coracao-1.7fb9c2b3.jpg": "/chocolateria-ratones/static/media/coracao-1.7fb9c2b3.jpg",
     "static/media/coracao-2.2dcb97dd.jpg": "/chocolateria-ratones/static/media/coracao-2.2dcb97dd.jpg",
     "static/media/hero-1.e1d6f2b9.jpg": "/chocolateria-ratones/static/media/hero-1.e1d6f2b9.jpg",
@@ -36,6 +38,6 @@
     "static/css/2.f873f00b.chunk.css",
     "static/js/2.f46ba46e.chunk.js",
     "static/css/main.0f8214fd.chunk.css",
-    "static/js/main.6490d40d.chunk.js"
+    "static/js/main.bdd9f80b.chunk.js"
   ]
 }
