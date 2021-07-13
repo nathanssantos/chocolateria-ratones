@@ -9,6 +9,7 @@ import bombom3 from "../assets/images/products/bombom/bombom-3.jpg";
 
 import bombom4 from "../assets/images/products/bombom/bombom-4.jpg";
 import bombom5 from "../assets/images/products/bombom/bombom-5.jpg";
+import bombom6 from "../assets/images/products/bombom/bombom-6.jpg";
 
 import barra1 from "../assets/images/products/barra/barra-1.jpeg";
 import barra2 from "../assets/images/products/barra/barra-2.jpeg";
@@ -57,7 +58,7 @@ const productList = [
         </ul>
       </div>
     ),
-    images: [bombom4, bombom5],
+    images: [bombom4, bombom5, bombom6],
   },
   {
     name: "Barra de Chocolate Gourmet",
