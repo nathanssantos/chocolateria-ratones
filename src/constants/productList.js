@@ -14,6 +14,7 @@ import barra1 from "../assets/images/products/barra/barra-1.jpeg";
 import barra2 from "../assets/images/products/barra/barra-2.jpeg";
 import barra3 from "../assets/images/products/barra/barra-3.jpeg";
 import barra4 from "../assets/images/products/barra/barra-4.jpeg";
+import barra5 from "../assets/images/products/barra/barra-5.jpg";
 
 import coracao1 from "../assets/images/products/coracao/coracao-1.jpg";
 import coracao2 from "../assets/images/products/coracao/coracao-2.jpg";
@@ -74,6 +75,28 @@ const productList = [
       </div>
     ),
     images: [barra1, barra2, barra3, barra4],
+  },
+  {
+    name: "Barra de Chocolate Gourmet Grande",
+    weight: 500,
+    price: 45,
+    description: () => (
+      <div>
+        <div className="additional-info">
+          R$ 50,00 na caixinha para presente
+        </div>
+        <div className="flavour-list">
+          <div className="flavour-list__title">Sabores disponíveis:</div>
+          <ul>
+            <li>Laka e Oreo</li>
+            <li>Chocolate ao Leite</li>
+            <li>Nutella</li>
+            <li>Prestígio</li>
+          </ul>
+        </div>
+      </div>
+    ),
+    images: [barra5],
   },
   {
     name: "Coração de Chocolate Recheado",
