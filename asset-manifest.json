@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/chocolateria-ratones/static/css/main.0f8214fd.chunk.css",
-    "main.js": "/chocolateria-ratones/static/js/main.68440e7d.chunk.js",
-    "main.js.map": "/chocolateria-ratones/static/js/main.68440e7d.chunk.js.map",
+    "main.css": "/chocolateria-ratones/static/css/main.25d0252a.chunk.css",
+    "main.js": "/chocolateria-ratones/static/js/main.60ee12cf.chunk.js",
+    "main.js.map": "/chocolateria-ratones/static/js/main.60ee12cf.chunk.js.map",
     "runtime-main.js": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js",
     "runtime-main.js.map": "/chocolateria-ratones/static/js/runtime-main.db6009d3.js.map",
     "static/css/2.f873f00b.chunk.css": "/chocolateria-ratones/static/css/2.f873f00b.chunk.css",
@@ -10,13 +10,14 @@
     "static/js/2.f46ba46e.chunk.js.map": "/chocolateria-ratones/static/js/2.f46ba46e.chunk.js.map",
     "index.html": "/chocolateria-ratones/index.html",
     "static/css/2.f873f00b.chunk.css.map": "/chocolateria-ratones/static/css/2.f873f00b.chunk.css.map",
-    "static/css/main.0f8214fd.chunk.css.map": "/chocolateria-ratones/static/css/main.0f8214fd.chunk.css.map",
+    "static/css/main.25d0252a.chunk.css.map": "/chocolateria-ratones/static/css/main.25d0252a.chunk.css.map",
     "static/js/2.f46ba46e.chunk.js.LICENSE.txt": "/chocolateria-ratones/static/js/2.f46ba46e.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/chocolateria-ratones/static/media/Raleway-Thin.537e4a26.ttf",
     "static/media/barra-1.2db7e649.jpeg": "/chocolateria-ratones/static/media/barra-1.2db7e649.jpeg",
     "static/media/barra-2.cf444c79.jpeg": "/chocolateria-ratones/static/media/barra-2.cf444c79.jpeg",
     "static/media/barra-3.21377688.jpeg": "/chocolateria-ratones/static/media/barra-3.21377688.jpeg",
     "static/media/barra-4.b021830c.jpeg": "/chocolateria-ratones/static/media/barra-4.b021830c.jpeg",
+    "static/media/barra-5.d495ec7e.jpg": "/chocolateria-ratones/static/media/barra-5.d495ec7e.jpg",
     "static/media/bombom-1.7e2b2a05.jpeg": "/chocolateria-ratones/static/media/bombom-1.7e2b2a05.jpeg",
     "static/media/bombom-2.53a84090.jpeg": "/chocolateria-ratones/static/media/bombom-2.53a84090.jpeg",
     "static/media/bombom-3.9132c789.jpg": "/chocolateria-ratones/static/media/bombom-3.9132c789.jpg",
@@ -37,7 +38,7 @@
     "static/js/runtime-main.db6009d3.js",
     "static/css/2.f873f00b.chunk.css",
     "static/js/2.f46ba46e.chunk.js",
-    "static/css/main.0f8214fd.chunk.css",
-    "static/js/main.68440e7d.chunk.js"
+    "static/css/main.25d0252a.chunk.css",
+    "static/js/main.60ee12cf.chunk.js"
   ]
 }
