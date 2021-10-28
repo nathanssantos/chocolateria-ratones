@@ -16,8 +16,8 @@ import barra3 from "../assets/images/products/barra/barra-3.jpeg";
 import barra4 from "../assets/images/products/barra/barra-4.jpeg";
 import barra5 from "../assets/images/products/barra/barra-5.jpg";
 
-import coracao1 from "../assets/images/products/coracao/coracao-1.jpg";
-import coracao2 from "../assets/images/products/coracao/coracao-2.jpg";
+// import coracao1 from "../assets/images/products/coracao/coracao-1.jpg";
+// import coracao2 from "../assets/images/products/coracao/coracao-2.jpg";
 
 const productList = [
   {
