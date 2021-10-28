@@ -98,22 +98,22 @@ const productList = [
     ),
     images: [barra5],
   },
-  {
-    name: "Coração de Chocolate Recheado",
-    weight: 400,
-    price: 65,
-    description: () => (
-      <div className="flavour-list">
-        <div className="flavour-list__title">Sabores disponíveis:</div>
+  // {
+  //   name: "Coração de Chocolate Recheado",
+  //   weight: 400,
+  //   price: 65,
+  //   description: () => (
+  //     <div className="flavour-list">
+  //       <div className="flavour-list__title">Sabores disponíveis:</div>
 
-        <ul>
-          <li>Cookies e Chocolate Blend</li>
-          <li>Brownie e Chocolate Blend</li>
-        </ul>
-      </div>
-    ),
-    images: [coracao2, coracao1],
-  },
+  //       <ul>
+  //         <li>Cookies e Chocolate Blend</li>
+  //         <li>Brownie e Chocolate Blend</li>
+  //       </ul>
+  //     </div>
+  //   ),
+  //   images: [coracao2, coracao1],
+  // },
 ];
 
 export default productList;
